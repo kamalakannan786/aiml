@@ -1,0 +1,9 @@
+resume_id,resume_text,category,quality_score
+1,"Python Developer with 5+ years experience in web development. Proficient in Django Flask and REST APIs. Experience with AWS cloud services and Docker containerization. Built scalable applications serving 100k+ users.",Software Engineering,88
+2,"Data Scientist with expertise in machine learning and statistical analysis. Skilled in Python R SQL and Tableau. Experience with TensorFlow PyTorch and scikit-learn. Published research papers in ML conferences.",Data Science,92
+3,"Frontend Developer specializing in React and modern JavaScript. Experience with TypeScript Redux and responsive design. Built user interfaces for e-commerce and fintech applications.",Frontend Development,85
+4,"DevOps Engineer with 4 years experience in cloud infrastructure. Expert in AWS Azure Kubernetes and Terraform. Automated CI/CD pipelines reducing deployment time by 60%.",DevOps,90
+5,"Java Backend Developer with Spring Boot microservices experience. Worked on high-traffic applications with millions of requests per day. Experience with PostgreSQL and Redis.",Backend Development,87
+6,"Mobile App Developer with React Native and Flutter experience. Published 10+ apps on App Store and Google Play. Experience with native iOS and Android development.",Mobile Development,83
+7,"Full Stack Developer with MEAN stack experience. Built end-to-end web applications with Node.js Express MongoDB and Angular. Experience with agile development methodologies.",Full Stack Development,86
+8,"Machine Learning Engineer with deep learning expertise. Experience with computer vision and NLP projects. Deployed ML models in production using MLOps best practices.",Machine Learning,94
